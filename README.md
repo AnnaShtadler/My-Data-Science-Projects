@@ -1,1 +1,1 @@
-# Data Analyse: U.S. Medical Insurance Project
+# Data Analysis: U.S. Medical Insurance Project
